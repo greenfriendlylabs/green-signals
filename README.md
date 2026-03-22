@@ -63,13 +63,6 @@ A single CosmWasm contract handles all on-chain prediction market logic.
 
 ---
 
-## Architecture
-
-```
-React Components -> Custom Hooks -> Services -> Zustand Stores
-                                             -> Blockchain (CosmJS) / LCD API (Axios)
----
-
 ## Tech Stack
 
 | Layer | Technology |
